@@ -5,4 +5,4 @@
 
 ** License
 
-   file:LICENSE
+   [[file:LICENSE]]
