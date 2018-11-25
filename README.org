@@ -1,0 +1,8 @@
+* Very simple DWM status utility
+
+  WIP. I do not use DWM anymore, so this will probably rot in eternal
+  code fire.
+
+** License
+
+   file:LICENSE
